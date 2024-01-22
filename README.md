@@ -15,6 +15,5 @@
 ## Captura de pantalla
 ![Captura de pantalla](https://raw.githubusercontent.com/manuel-marg/New-Khaos-Macro/main/Captura%20de%20Pantalla.png)
 
-Para más información sobre cómo utilizar el programa, consulta la [documentación](link) y los [ejemplos de uso](link).
 
 
