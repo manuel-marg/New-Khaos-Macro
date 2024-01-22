@@ -1,6 +1,20 @@
 # New Khaos Macro
 
-New Khaos Macro no es solamente una grabadora de ratón, o una grabadora de las teclas pulsadas en el teclado y un reproductor. También es un programa de automatización muy bueno e incluso un se pueden compilar los macros a EXE.
+**New Khaos Macro** es más que una simple grabadora de ratón o teclado. También es un potente programa de automatización que incluso permite compilar los macros a formato EXE.
 
-![enter image description here](https://raw.githubusercontent.com/manuel-marg/New-Khaos-Macro/main/Captura%20de%20Pantalla.png)
+## Características principales
+| Característica       | Descripción                                                    |
+|----------------------|----------------------------------------------------------------|
+| Grabación de ratón   | Capacidad para grabar y reproducir acciones del ratón.          |
+| Grabación de teclado | Permite grabar secuencias de teclas pulsadas en el teclado.      |
+| Compilación a EXE    | Posibilidad de compilar los macros en archivos ejecutables.      |
+
+## Estado del proyecto
+[![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
+
+## Captura de pantalla
+![Captura de pantalla](https://raw.githubusercontent.com/manuel-marg/New-Khaos-Macro/main/Captura%20de%20Pantalla.png)
+
+Para más información sobre cómo utilizar el programa, consulta la [documentación](link) y los [ejemplos de uso](link).
+
 
