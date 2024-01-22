@@ -9,9 +9,6 @@
 | Grabación de teclado | Permite grabar secuencias de teclas pulsadas en el teclado.      |
 | Compilación a EXE    | Posibilidad de compilar los macros en archivos ejecutables.      |
 
-## Estado del proyecto
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
-
 ## Captura de pantalla
 ![Captura de pantalla](https://raw.githubusercontent.com/manuel-marg/New-Khaos-Macro/main/Captura%20de%20Pantalla.png)
 
